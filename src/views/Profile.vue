@@ -122,7 +122,7 @@
                 <div class="mt-10 py-10 border-t border-gray-300 text-center">
                   <div class="flex flex-wrap justify-center">
                     <div class="w-full lg:w-9/12 px-4">
-                      <p class="mb-4 text-lg leading-relaxed text-gray-800">
+                      <p class="mb-4  sm:text-sm leading-relaxed text-gray-800">
                         Sono un programmatore appassionato che da oltre 5 anni si dedica con entusiasmo al mondo dello sviluppo web. Ho un'esperienza consolidata in tecnologie come Vue.js, Feathers e Node.js, oltre a competenze approfondite in JavaScript e altre tecnologie di base.
   
   Negli anni, ho avuto il privilegio di collaborare con amici e partner, offrendo il mio supporto e competenze per la realizzazione di diversi progetti. Questa esperienza mi ha permesso di approfondire le mie competenze e di imparare continuamente, affrontando sfide stimolanti e sviluppando soluzioni innovative.
