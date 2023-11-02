@@ -31,7 +31,7 @@
             <li class="flex items-center">
               <a
                 class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                href="https://www.linkedin.com/in/francisco-grillo-518a2125a/"
+                href="https://www.linkedin.com/in/francisco-grillo-518a2125a/" target="_blank"
                 ><i
                   class="lg:text-gray-300 text-gray-500 fab fa-linkedin text-lg leading-lg "
                 ></i
@@ -41,7 +41,7 @@
             <li class="flex items-center">
               <a
                 class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                href="https://wa.me/543548417898"
+                href="https://wa.me/543548417898" target="_blank"
                 ><i
                   class="lg:text-gray-300 text-gray-500 fab fa-whatsapp text-lg leading-lg "
                 ></i
@@ -51,7 +51,7 @@
             <li class="flex items-center">
               <a
                 class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                href="https://wa.me/393792971089"
+                href="https://wa.me/393792971089" target="_blank"
                 ><i
                   class="lg:text-gray-300 text-gray-500 fab fa-whatsapp text-lg leading-lg "
                 ></i
@@ -61,7 +61,7 @@
             <li class="flex items-center">
               <a
                 class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                href="https://github.com/franlgr"
+                href="https://github.com/franlgr" target="_blank"
                 ><i
                   class="lg:text-gray-300 text-gray-500 fab fa-github text-lg leading-lg "
                 ></i
