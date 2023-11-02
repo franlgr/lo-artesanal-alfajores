@@ -35,7 +35,7 @@
                 ><i
                   class="lg:text-gray-300 text-gray-500 fab fa-linkedin text-lg leading-lg "
                 ></i
-                ><span class="lg:hidden inline-block ml-2">Facebook</span></a
+                ><span class="lg:hidden inline-block ml-2">Linkedin</span></a
               >
             </li>
             <li class="flex items-center">
