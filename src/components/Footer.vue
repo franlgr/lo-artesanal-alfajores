@@ -31,9 +31,9 @@
             <li class="flex items-center">
               <a
                 class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                href="https://web.facebook.com/valimientos.redvs/"
+                href="https://www.linkedin.com/in/francisco-grillo-518a2125a/"
                 ><i
-                  class="lg:text-gray-300 text-gray-500 fab fa-facebook text-lg leading-lg "
+                  class="lg:text-gray-300 text-gray-500 fab fa-linkedin text-lg leading-lg "
                 ></i
                 ><span class="lg:hidden inline-block ml-2">Facebook</span></a
               >
