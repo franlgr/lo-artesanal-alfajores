@@ -5,7 +5,7 @@
         <section class="relative block" style="height: 500px;">
           <div
             class="absolute top-0 w-full h-full bg-center bg-cover"
-            style='background-image: url("https://sharklabs.com.br/assets/img/2020-10/file-upload-vuejs-nodejs.png");'
+            style='background-image: url("https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2023-03/710986-alfajorartesanal.jpg?h=10d202d3&itok=SQ5ezhdX");'
           >
             <span
               id="blackOverlay"
@@ -45,7 +45,7 @@
                     <div class="relative">
                       <img
                         alt="..."
-                        src="../assets//img/perfilcv.jpeg"
+                        src="../assets//img/logoArte.jpg"
                         class="shadow-xl rounded-full h-auto align-middle border-none absolute -m-16 -ml-20 lg:-ml-16"
                         style="max-width: 180px;"
                       />
@@ -92,8 +92,11 @@
                   <h3
                     class="text-4xl font-semibold leading-normal mb-2 text-gray-800"
                   >
-                   Francisco Grillo Ruiz
+                   Alfajores Artesanales.
                   </h3>
+                  <div class="m-3">
+                    <p>No nos olvidamos, sabemos lo que te gusta!</p>
+                  </div>
                   <div
                     class="text-sm leading-normal mt-0 mb-2 text-gray-500 font-bold uppercase"
                   >
