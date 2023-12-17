@@ -7,7 +7,7 @@
         <section class="relative block" style="height: 500px;">
           <div
             class="absolute top-0 w-full h-full bg-center bg-cover"
-            style='background-image: url("https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2023-03/710986-alfajorartesanal.jpg?h=10d202d3&itok=SQ5ezhdX");'
+            style='background-image: url("https://res.cloudinary.com/doznjtpmk/image/upload/v1702793729/admin-web/apb4bzi2fshmcgqkmch8.jpg");'
           >
             <span
               id="blackOverlay"
