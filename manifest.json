@@ -1,19 +1,19 @@
 {
-    "name": "Spin & Win",
-    "short_name": "SpinWin",
-    "description": "$1.000.000 en un click!",
+    "name": "LoArtesanal.Arg",
+    "short_name": "LoArtesanal",
+    "description": "Hacé tu pedido, fácil, gratis y rápido.",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007BFF",
     "icons": [
       {
-        "src": "https://res.cloudinary.com/djh3fajii/image/upload/v1694092538/uv3w3i4jesrxpoas3j7w.png",
+        "src": "https://res.cloudinary.com/doznjtpmk/image/upload/v1702781565/admin-web/xoavpfrrpa2hbff8melg.jpg",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "https://res.cloudinary.com/djh3fajii/image/upload/v1694092538/uv3w3i4jesrxpoas3j7w.png",
+        "src": "https://res.cloudinary.com/doznjtpmk/image/upload/v1702781565/admin-web/xoavpfrrpa2hbff8melg.jpg",
         "sizes": "512x512",
         "type": "image/png"
       }

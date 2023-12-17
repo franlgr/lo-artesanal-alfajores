@@ -34,7 +34,7 @@
     <a href="#">
         <h5 class="mb-2 text-2xl  font-semibold tracking-tight text-gray-900 dark:text-white">Querés hacernos un pedido?</h5>
     </a>
-    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Haz click en el siguiente botón para crear tu pedido personalizado! Muchas Gracias!</p>
+    <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Haz click en el siguiente botón para crear tu pedido personalizado, es GRATIS! Muchas Gracias!</p>
     <span class="shrikhand">LoArtesanal.Arg</span>
     <div class="m-3"></div>
     <button @click="openModal=!openModal, showMarket =!showMarket" type="button" class="text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">
@@ -169,7 +169,7 @@ export default {
             }
         },
             enviarPedido() {
-            const mensaje = `
+            const mensaje = ` NUEVO PEDIDO RECIBIDO!!!
                 Nombre: ${this.nombre}
                 Ubicación: ${this.ubicacion}
                 Numero: https://wa.me/${this.phone}
@@ -197,7 +197,7 @@ export default {
 
                            
                             
-                            }, 6000);
+                            }, 7000);
                         console.log('Mensaje enviado:', response.data);
                         })
                         .catch(error => {
