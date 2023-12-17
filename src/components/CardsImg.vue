@@ -17,10 +17,10 @@
   </svg>
   <span class="sr-only">Info</span>
   <div class="ms-3 text-sm font-medium">
-   Oh! Estamos teniendo problemas! Pero puedes hacernos tu pedido directamente aquí<a href="https://wa.me/543548417898" class="font-semibold underline hover:no-underline"> Click para WhatsApp</a>. Te esperamos. Muchas gracias!
+   Oh! Estamos teniendo problemas! Pero puedes hacernos tu pedido directamente aquí<a href="https://wa.me/543548417898" class="font-semibold underline hover:no-underline"> Click para WhatsApp</a>. O intenta nuevamente! Te esperamos. Muchas gracias!
   </div>
   <button type="button" class="ms-auto -mx-1.5 -my-1.5 bg-red-50 text-red-500 rounded-lg focus:ring-2 focus:ring-red-400 p-1.5 hover:bg-red-200 inline-flex items-center justify-center h-8 w-8 dark:bg-gray-800 dark:text-red-400 dark:hover:bg-gray-700" data-dismiss-target="#alert-2" aria-label="Close">
-    <span @click="showError=false" class="sr-only">Close</span>
+    <span @click="showError=false, showMarket=true" class="sr-only">Close</span>
     <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
       <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
     </svg>
@@ -52,7 +52,7 @@
                 <h3 class="text-lg font-semibold text-gray-900 dark:text-white">
                     Personaliza tu pedido
                 </h3>
-                <button @click="openModal =!openModal" type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white" data-modal-toggle="crud-modal">
+                <button @click="openModal =!openModal, showMarket=true" type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ms-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white" data-modal-toggle="crud-modal">
                     <svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
                         <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"/>
                     </svg>
